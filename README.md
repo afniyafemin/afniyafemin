@@ -11,7 +11,7 @@ client-based mobile applications.
 - MVC architecture 
 
 ## 📱 Featured Projects
- •   Flutter E-commerce (elegantia)
+- Flutter E-commerce (elegantia): https://github.com/afniyafemin/flutter-elegantia.git
 - mobile app for local artist (kalakaar)
 - mental wellness application (kindled)
 - used cars buy sell and rent (bahrain cars)
