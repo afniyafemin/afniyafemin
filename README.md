@@ -12,7 +12,7 @@ client-based mobile applications.
 
 ## 📱 Featured Projects
 - Flutter E-commerce (elegantia): https://github.com/afniyafemin/flutter-elegantia.git
-- mobile app for local artist (kalakaar)
+- mobile app for local artist (kalakaar): https://github.com/afniyafemin/flutter-kalakaar.git
 - mental wellness application (kindled)
 - used cars buy sell and rent (bahrain cars)
 - weather App demo
